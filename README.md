@@ -1,4 +1,4 @@
-# Indian-ish Image Classifier
+# Indian Fish Image Classifier
 
 This project is an image classification model built to distinguish and categorize images based on Indian-themed categories. The classifier uses deep learning techniques and has been trained with various images to achieve high accuracy in identifying specific features in Indian cultural, scenic, and other relevant imagery.
 
